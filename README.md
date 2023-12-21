@@ -2,4 +2,4 @@
 
 Jogo da Cobrinha desenvolvido exclusivamente em JavaScript 
 
- <a  href="https://caiofcsousa.github.io/Snake_game/" target="_blank" >Visitar Snake Game<a/> 
+ <a target="_blank" href="https://caiofcsousa.github.io/Snake_game/" >Visitar Snake Game<a/> 
